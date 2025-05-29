@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataBookStore", "ODataBookStore.csproj", "{86454DBD-DFC0-4226-8C78-BD4FBDCD671F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86454DBD-DFC0-4226-8C78-BD4FBDCD671F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86454DBD-DFC0-4226-8C78-BD4FBDCD671F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86454DBD-DFC0-4226-8C78-BD4FBDCD671F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86454DBD-DFC0-4226-8C78-BD4FBDCD671F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F61D258-DDBD-43BC-8A6A-B6436D3ECD98}
+	EndGlobalSection
+EndGlobal
